@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manav", "Manav\Manav.csproj", "{4E0A3392-3E20-4D89-919A-2C11D23ED204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0A3392-3E20-4D89-919A-2C11D23ED204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0A3392-3E20-4D89-919A-2C11D23ED204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0A3392-3E20-4D89-919A-2C11D23ED204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0A3392-3E20-4D89-919A-2C11D23ED204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488BB716-D90A-4FDE-9B61-C2B65CEF3554}
+	EndGlobalSection
+EndGlobal

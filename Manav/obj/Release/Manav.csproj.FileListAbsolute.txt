@@ -1,0 +1,13 @@
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Release\Manav.exe.config
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Release\Manav.exe.manifest
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Release\Manav.application
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Release\Manav.exe
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Release\Manav.pdb
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Release\Manav.Form1.resources
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Release\Manav.Properties.Resources.resources
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Release\Manav.csproj.GenerateResource.Cache
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Release\Manav.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Release\Manav.exe.manifest
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Release\Manav.application
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Release\Manav.exe
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Release\Manav.pdb

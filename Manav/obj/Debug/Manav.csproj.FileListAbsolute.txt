@@ -1,0 +1,14 @@
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Debug\Manav.exe.config
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Debug\Manav.exe
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Debug\Manav.pdb
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Debug\Manav.Form1.resources
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Debug\Manav.Properties.Resources.resources
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Debug\Manav.csproj.GenerateResource.Cache
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Debug\Manav.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Debug\Manav.exe
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Debug\Manav.pdb
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Debug\Manav.exe.manifest
+C:\Users\ibrahimbati\source\repos\Manav\Manav\bin\Debug\Manav.application
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Debug\Manav.exe.manifest
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Debug\Manav.application
+C:\Users\ibrahimbati\source\repos\Manav\Manav\obj\Debug\Manav.csprojAssemblyReference.cache

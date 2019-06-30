@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+	<Identity Name="GDROBOT.MYSUITE.MYAPP"
+			  Version="1.0.0.3"
+			  Publisher="CN_GDROBOT, O=GDROBOT, L=BURSA, S=BURSA, C=TURKEY" />
+	<Properties>
+		<DisplayName>GDROBOT</DisplayName>
+		<PublisherDisplayName>GDROBOT</PublisherDisplayName>
+		<Logo>iamges\icon.png</Logo>
+	</Properties>
+	<Prerequisites>
+		<OSMinVersion>6.2.1</OSMinVersion>
+		<OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+	</Prerequisites>
+	<Resources>
+		<Resource Language="en-us" />
+	</Resources>
+	<Applications>
+		<Application Id="MyApp" StartPage="default.html">
+			<VisualElements DisplayName="My App" Description="A useful description."
+				 Logo="images\icon.png" SmallLogo="images\small_icon.png"
+				 ForegroundText="dark" BackgroundColor="#FFFFFF" >
+				<SplashScreen Image="images\splash.png" />
+			</VisualElements>
+		</Application>
+	</Applications>
+</Package>
